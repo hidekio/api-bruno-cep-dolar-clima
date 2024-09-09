@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(78, 161, 244);
+    background-image: radial-gradient(circle, rgba(0, 0, 0, 0.219) 60%, rgba(0, 0, 0, 0.452) 80%, rgb(0, 0, 0) 100%);
+}
+
+.center{
+    position: relative;
+    top: 350px;
+    left: 800px;
+ }
+ .center2{
+    position: relative;
+    top: 350px;
+    left: 900px;
+ }
+
+ 
+
+
+
+
